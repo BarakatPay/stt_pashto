@@ -1,4 +1,4 @@
-# stt_pushto
+# Speech-to-Text Finetuned Model
 
 
 
